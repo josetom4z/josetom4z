@@ -1,7 +1,7 @@
 Hi 👋, I'm José Tomaz
 
 [![Gmail Badge](https://img.shields.io/badge/-rbj.ribeiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rbj.ribeiro@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/Jose%20Tomaz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josetom4z/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/Jos%C3%A9%20Tomaz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josetom4z/ "Connect on LinkedIn")
 
 
 Software Engineer
