@@ -66,7 +66,7 @@ Software Engineer
 
  
 
-- 🌱 learning：  
+- 🌱 Learning：  
   ![Angular](https://img.shields.io/badge/Angular-%230D76C7?style=flat&logo=angular&logoColor=red)&nbsp;
   ![React](https://img.shields.io/badge/React-%23202124?style=flat&logo=react)&nbsp;
   ![Next JS](https://img.shields.io/badge/NextJS-black?style=flat-circle&logo=next.js&logoColor=white)&nbsp;
