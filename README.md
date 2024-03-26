@@ -21,7 +21,7 @@ Software Engineer
 
 
   
-- 💻 Front-end：
+- 💻 Front-end:  
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -34,21 +34,21 @@ Software Engineer
 
 
 
-- 🛠️ Tools：
+- 🛠️ Tools：  
+  ![VS Code](https://img.shields.io/badge/VSCode-gray.svg?logo=visualstudiocode) 
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-circle&logo=docker&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-grey?style=flat-circle&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-circle&logo=github&logoColor=white)&nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat-circle&logo=markdown)&nbsp;
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea)&nbsp;  
-  ![VS Code](https://img.shields.io/badge/VSCode-gray.svg?logo=visualstudiocode)&nbsp;  
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-circle&logo=linux&logoColor=black)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-circle&logo=windows&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-circle&logo=notion&logoColor=white)&nbsp;
 
-- ☁️ Cloud：
+- ☁️ Cloud：  
   ![AWS](https://img.shields.io/badge/AWS-grey?&logo=Amazon-AWS&logoColor=F90)&nbsp;
 
-- 🎲 Database：
+- 🎲 Database：  
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-circle&logo=mysql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-circle&logo=mongodb&logoColor=white)&nbsp;
 
@@ -66,7 +66,7 @@ Software Engineer
 
  
 
-- 🌱 learning：
+- 🌱 learning：  
   ![Angular](https://img.shields.io/badge/Angular-%230D76C7?style=flat&logo=angular&logoColor=red)&nbsp;
   ![React](https://img.shields.io/badge/React-%23202124?style=flat&logo=react)&nbsp;
   ![Next JS](https://img.shields.io/badge/NextJS-black?style=flat-circle&logo=next.js&logoColor=white)&nbsp;
